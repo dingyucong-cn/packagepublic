@@ -1,0 +1,11 @@
+{
+    "name": "Dingyucong/Packagetest",
+    "description": "this is my test package!",
+    "authors": [
+        {
+            "name": "dingyucong",
+            "email": "dingyucong@126.com"
+        }
+    ],
+    "require": {}
+}
